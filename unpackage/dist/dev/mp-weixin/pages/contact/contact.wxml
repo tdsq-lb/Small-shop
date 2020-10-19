@@ -1,0 +1,1 @@
+<view class="contact"><view class="img">图片</view><view class="info"><view data-event-opts="{{[['tap',[['phone',['$event']]]]]}}" bindtap="__e">联系电话：15387535016 (点击拨打)</view><view>地址：浙江省杭州市余杭区IT公园</view></view><map class="map" longitude="{{longitude}}" latitude="{{latitude}}" scale="{{scale}}" markers="{{covers}}"></map></view>
